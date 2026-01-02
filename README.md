@@ -84,6 +84,7 @@ streamlit run app.py
 The dashboard will open automatically in your browser 🌐
 
 **📂 Project Structure**
+
 COVID19-Global-Dashboard/
 │
 ├── app.py                # Streamlit application
